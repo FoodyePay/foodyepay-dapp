@@ -1,4 +1,3 @@
-// providers.tsx
 'use client'
 
 import { WagmiProvider, createConfig, http } from 'wagmi'
@@ -30,6 +29,8 @@ export default function Providers({ children }: { children: React.ReactNode }) {
     </QueryClientProvider>
   )
 }
+
+
 
 
 

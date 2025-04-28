@@ -1,7 +1,9 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { ReactNode } from 'react'
-import Providers from './providers';
+
+// Corrected import
+import Providers from './providers'
 
 export const metadata: Metadata = {
   title: 'FoodyePay DApp',
@@ -17,6 +19,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     </html>
   )
 }
+
 
 
 
