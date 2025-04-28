@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { ReactNode } from 'react'
 
-// Corrected import
+// Default import for Providers
 import Providers from './providers'
 
 export const metadata: Metadata = {
