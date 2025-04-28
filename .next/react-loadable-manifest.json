@@ -1,0 +1,92 @@
+{
+  "..\\node_modules\\.pnpm\\@supabase+auth-js@2.69.1\\node_modules\\@supabase\\auth-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\.pnpm\\@supabase+auth-js@2.69.1\\node_modules\\@supabase\\auth-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@supabase+functions-js@2.4.4\\node_modules\\@supabase\\functions-js\\dist\\module\\helper.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\.pnpm\\@supabase+functions-js@2.4.4\\node_modules\\@supabase\\functions-js\\dist\\module\\helper.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@supabase+realtime-js@2.11._ec3b43826f372c9549906e8aae454282\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\.pnpm\\@supabase+realtime-js@2.11._ec3b43826f372c9549906e8aae454282\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@supabase+realtime-js@2.11._ec3b43826f372c9549906e8aae454282\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> ws": {
+    "id": "..\\node_modules\\.pnpm\\@supabase+realtime-js@2.11._ec3b43826f372c9549906e8aae454282\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> ws",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_ws_8_18_1_bufferutil_4_0_9_utf-8-validate_5_0_10_node_mo-aad577.js"
+    ]
+  },
+  "..\\node_modules\\.pnpm\\@supabase+storage-js@2.7.1\\node_modules\\@supabase\\storage-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\.pnpm\\@supabase+storage-js@2.7.1\\node_modules\\@supabase\\storage-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\coinbaseWallet.js -> @coinbase/wallet-sdk": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\coinbaseWallet.js -> @coinbase/wallet-sdk",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_coinbase_wallet-sdk_4_3_0_node_modules_coinbase_wallet-s-2f7bfe.js"
+    ]
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\coinbaseWallet.js -> cbw-sdk": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\coinbaseWallet.js -> cbw-sdk",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_coinbase_wallet-sdk_3_9_3_node_modules_coinbase_wallet-s-69e4fa.js"
+    ]
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\metaMask.js -> @metamask/sdk": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\metaMask.js -> @metamask/sdk",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\safe.js -> @safe-global/safe-apps-provider": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\safe.js -> @safe-global/safe-apps-provider",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\safe.js -> @safe-global/safe-apps-sdk": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\safe.js -> @safe-global/safe-apps-sdk",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\walletConnect.js -> @walletconnect/ethereum-provider": {
+    "id": "..\\node_modules\\.pnpm\\@wagmi+connectors@5.7.13_@t_8860dc25231fd8d63bbb6171cc7189c6\\node_modules\\@wagmi\\connectors\\dist\\esm\\walletConnect.js -> @walletconnect/ethereum-provider",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@walletconnect+ethereum-pro_6d03c7c8e60528dbd4f9ae652f10ad22\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal": {
+    "id": "..\\node_modules\\.pnpm\\@walletconnect+ethereum-pro_6d03c7c8e60528dbd4f9ae652f10ad22\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\@walletconnect+modal@2.7.0_@types+react@19.1.2_react@18.3.1\\node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui": {
+    "id": "..\\node_modules\\.pnpm\\@walletconnect+modal@2.7.0_@types+react@19.1.2_react@18.3.1\\node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\node_modules\\.pnpm\\next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_next_15_3_1_react-dom_18_3_1_react_18_3_1__react_18_3_1_-fa2b14.js"
+    ]
+  },
+  "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.23.2_bufferutil@4.0._01fb3ba83469f32dd26f8bacc58b87c7\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows",
+    "files": []
+  },
+  "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": "..\\node_modules\\.pnpm\\viem@2.28.0_bufferutil@4.0._78861914e120a3fb8cb677cdc7e7e966\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_noble_curves_1_8_2_node_modules_noble_curves_esm_secp256k1_js.js"
+    ]
+  }
+}
