@@ -1,0 +1,16 @@
+/* src/app/globals.css */
+
+/* Removed invalid @unocss rule */
+
+
+/* 可选：定义基础字体和背景颜色，增强全局样式一致性 */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0f0f0f;
+  color: #fff;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
