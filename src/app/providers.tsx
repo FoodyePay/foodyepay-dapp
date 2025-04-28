@@ -21,8 +21,8 @@ const wagmiConfig = createConfig({
   },
 })
 
-// ✅ 导出 Providers 组件
-export function Providers({ children }: { children: React.ReactNode }) {
+// ✅ 这里注意，一定是 default export！
+export default function Providers({ children }: { children: React.ReactNode }) {
   return (
     <QueryClientProvider client={queryClient}>
       <WagmiProvider config={wagmiConfig}>
@@ -31,6 +31,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
     </QueryClientProvider>
   )
 }
+
 
 
 
